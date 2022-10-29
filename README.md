@@ -13,7 +13,8 @@
 - [Questions](#questions)
 
   ## Usage
-  Untitled_ Oct 28, 2022 10_45 PM.gif
+  ![Untitled_ Oct 28, 2022 10_45 PM](https://user-images.githubusercontent.com/113738082/198850694-09df1668-8b63-4202-8e5a-61387937dbcb.gif)
+
  
 ## Installation
   Clone repository from GitHub. Download Express.js(npm install express --save).
